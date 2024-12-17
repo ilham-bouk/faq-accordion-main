@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+  background-image: url("assets/images/background-pattern-desktop.svg");
+  background-color: hsl(275, 100%, 97%);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  display: grid;
+}
+.container {
+  background-color: white;
+  padding: 40px 40px 30px 40px ;
+  border-radius: 15px;
+  width: 730px;
+  margin: auto;
+}
+.heading {
+  display: flex;
+  margin-bottom: 10px;
+}
+.heading h1 {
+  color: hsl(292, 42%, 14%);
+  font-size: 50px;
+  margin: 0 20px;
+}
+.heading img {
+  width: 35px;
+}
+
+.box {
+  padding: 25px 0;
+}
+.box:not(:last-of-type) {
+  border-bottom: 1px solid #eee;
+}
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.question h3 {
+  color: hsl(292, 42%, 14%);
+  margin: 0;
+  cursor: pointer;
+}
+.question h3:hover {
+  color: hsl(292, 16%, 49%);
+}
+.question button {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+}
+.question img {
+  display: none;
+  transition: 0.2s;
+}
+.question img.show {
+  display: block;
+}
+.box p {
+  color: hsl(292, 16%, 49%);
+  display: none;
+  font-size: 16px;
+  transition: 0.2s;
+}
+.box p.show {
+  display: block;
+}
+@media (max-width: 575px) {
+  .container {
+    width: 350px;
+  }
+}
