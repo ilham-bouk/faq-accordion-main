@@ -1,10 +1,6 @@
-https://ilham-bouk.github.io/faq-accordion-main/
-https://www.frontendmentor.io/solutions/faq-accordion-solution-p27fjFDGrs
+# Frontend Mentor - Faq Accordion Main
 
-
-# Frontend Mentor - 
-
-![Design preview for Clipboard landing page coding challenge](design/desktop-preview.jpg)
+![Design preview for the Faq Accordion Main coding challenge](design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -18,7 +14,6 @@ Thanks for checking out my solution of Project tracking intro component front-en
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -29,15 +24,13 @@ Thanks for checking out my solution of Project tracking intro component front-en
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
 
 I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-ei8yk1iyV7)
-- Live Site URL: [Live site URL](https://ilham-bouk.github.io/Clipboard_landing_page/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-solution-p27fjFDGrs)
+- Live Site URL: [Live site URL](https://ilham-bouk.github.io/faq-accordion-main/)
 
 ## My process
 
@@ -47,14 +40,11 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Vannila JavaScript
 - Desktop-first workflow
 
 You will find all the required assets in the `/design` folder. The assets are already optimized.<br>
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-### Useful resources
-
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 
 ## Author
 
@@ -63,6 +53,6 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/faq-accordion-solution-p27fjFDGrs). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀
