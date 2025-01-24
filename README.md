@@ -24,6 +24,10 @@ Thanks for checking out my solution of Project tracking intro component front-en
 
 Users should be able to:
 
+- Hide/Show the answer to a question when the question is clicked
+- Navigate the questions and hide/show answers using keyboard navigation alone
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
 I do not have access to the Figma sketch so the design is not pixel perfect.
 
